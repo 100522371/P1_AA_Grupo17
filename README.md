@@ -5,6 +5,7 @@
 - `p1_aa.ipynb`: Notebook donde se describe todo el proceso de trabajo y se entrena el modelo final
 - `predicciones.csv`: Archivo que contiene las predicciones de los datos de `bank_competition.pkl`.
 - `predicciones.ipynb`: Notebook que carga el modelo final y realiza predicciones sobre `bank_competition.pkl`
+- `capturas-streamlit`: Carpeta con dos imagenes que prueban que streamlit nos funciona bien
 
 ---
 
